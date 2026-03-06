@@ -1,3 +1,6 @@
+// Main Application Component
+// Getway Web Application with animated transitions
+
 import { Switch, Route, useLocation } from "wouter";
 import { queryClient } from "./lib/queryClient";
 import { QueryClientProvider } from "@tanstack/react-query";
