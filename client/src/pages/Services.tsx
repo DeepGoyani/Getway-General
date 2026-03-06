@@ -15,21 +15,15 @@ const SERVICES = [
   },
   {
     id: "02",
-    title: "Commercial Arrays",
+    title: "Commercial Solar",
     desc: "Industrial-scale energy harvesting. Lower overheads and meet ESG goals with our high-yield commercial installations.",
     image: "https://images.unsplash.com/photo-1497440001374-f26997328c1b?q=80&w=2069&auto=format&fit=crop"
   },
   {
     id: "03",
-    title: "Battery Storage",
-    desc: "True energy independence. Our cinematic storage walls provide backup power and peak-shaving capabilities.",
-    image: "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?q=80&w=1937&auto=format&fit=crop"
-  },
-  {
-    id: "04",
-    title: "System Maintenance",
-    desc: "Proactive drone thermal imaging and panel cleaning to ensure your array always operates at peak efficiency.",
-    image: "https://images.unsplash.com/photo-1581094288338-2314dddb7ece?q=80&w=2070&auto=format&fit=crop"
+    title: "Industrial Solar",
+    desc: "High-capacity solar systems for manufacturing units and large industrial plants, ensuring reliable power and massive cost savings.",
+    image: "https://images.unsplash.com/photo-1548611635-b6e7827d7d4a?q=80&w=2070&auto=format&fit=crop"
   }
 ];
 

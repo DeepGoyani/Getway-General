@@ -10,20 +10,20 @@ export default function Subsidy() {
           
           <article className="prose prose-invert prose-lg md:prose-xl max-w-none font-light text-white/70">
             <p className="text-2xl text-white font-display mb-12 leading-relaxed">
-              Navigating the landscape of governmental solar incentives requires precision. Our dedicated compliance team ensures you capture every available tax credit, rebate, and grant to minimize your capital expenditure.
+              Navigating the landscape of governmental solar incentives requires precision. Our dedicated compliance team ensures you capture every available tax credit, rebate, and grant. Currently, government subsidies are primarily available for Residential and Industrial installations.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-16 my-16">
               <div>
-                <h3 className="text-primary font-display text-3xl mb-4">Federal ITC</h3>
+                <h3 className="text-primary font-display text-3xl mb-4">Residential Subsidy</h3>
                 <p>
-                  The Federal Investment Tax Credit (ITC) allows you to deduct a significant percentage of the cost of installing a solar energy system from your federal taxes. There is no cap on its value.
+                  Government programs like PM Surya Ghar provide direct financial assistance for homeowners. We handle the documentation to ensure you get the maximum benefit for your rooftop system.
                 </p>
               </div>
               <div>
-                <h3 className="text-primary font-display text-3xl mb-4">State Level Incentives</h3>
+                <h3 className="text-primary font-display text-3xl mb-4">Industrial Incentives</h3>
                 <p>
-                  Beyond federal programs, numerous states offer robust incentive structures, including Solar Renewable Energy Certificates (SRECs) and property tax exemptions for the added value of the system.
+                  Industrial units can leverage accelerated depreciation and state-level grants. These incentives significantly reduce the payback period for large-scale solar deployments.
                 </p>
               </div>
             </div>
