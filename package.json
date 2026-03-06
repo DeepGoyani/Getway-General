@@ -1,6 +1,7 @@
 {
   "name": "rest-express",
   "version": "1.0.0",
+  "description": "Getway Web Application - Modern animated web application with React and Express",
   "type": "module",
   "license": "MIT",
   "scripts": {
