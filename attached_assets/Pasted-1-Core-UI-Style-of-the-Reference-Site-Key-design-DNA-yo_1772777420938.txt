@@ -1,0 +1,548 @@
+1. Core UI Style of the Reference Site
+
+Key design DNA you want to replicate:
+
+Visual Style
+
+Cinematic minimalism
+
+Large typography
+
+Huge hero sections
+
+Dark / neutral background
+
+Video and image driven
+
+Interaction Style
+
+Smooth scroll
+
+GSAP-style animations
+
+Cursor-reactive effects
+
+Page transitions
+
+Parallax layers
+
+Hover animations
+
+Fullscreen content
+
+Unique Elements
+
+Film-strip style UI elements
+
+Italic first letter in headings
+
+Immersive sections instead of standard layouts
+
+Video overlays
+
+Cinematic storytelling layout
+
+2. Technology Stack for This UI
+
+Tell Lovable to build with:
+
+Next.js
+
+Tailwind CSS
+
+GSAP
+
+Framer Motion
+
+Lenis Smooth Scroll
+
+Three.js (optional)
+
+Shadcn UI
+
+3. UI Prompt Breakdown (Section by Section)
+
+These are modular prompts Lovable can understand.
+
+HERO SECTION PROMPT
+Create a full screen cinematic hero section.
+
+Features:
+- Full screen autoplay background video showing solar panels installed on rooftops
+- Dark overlay gradient for text readability
+- Large bold typography headline
+- First letter of headline italicized
+- Smooth fade in animation on load
+- Subtitle explaining solar installation services
+- CTA button: "Get Free Solar Quote"
+- Floating scroll indicator animation
+- Mouse parallax effect on headline text
+- Smooth GSAP entrance animation
+NAVBAR PROMPT
+Create a minimal cinematic navigation bar.
+
+Features:
+- Transparent navbar initially
+- Turns solid on scroll
+- Logo on left
+- Menu items on right
+- Hover underline animation
+- Smooth page transition animation
+- Sticky navigation
+- Mobile hamburger menu with slide animation
+
+Menu:
+
+Home
+
+Services
+
+Installations
+
+Solar Calculator
+
+Subsidy
+
+About
+
+Contact
+
+SERVICES SECTION PROMPT
+Create a cinematic service showcase section.
+
+Layout:
+- Large cards with image backgrounds
+- Hover zoom effect
+- Dark overlay on hover
+- Text slides in from bottom
+- Smooth GSAP reveal animation when scrolling
+
+Services:
+- Residential Solar Installation
+- Commercial Solar Systems
+- Solar Maintenance
+- Solar Consultation
+INSTALLATION GALLERY PROMPT
+Create an interactive solar installation gallery.
+
+Features:
+- Masonry grid layout
+- Hover reveal animations
+- Click to open fullscreen modal
+- Smooth zoom transitions
+- Lazy loading images
+- Parallax scrolling effect
+SOLAR SAVINGS CALCULATOR PROMPT
+Create an interactive solar savings calculator.
+
+Inputs:
+- Monthly electricity bill
+- Location
+- Roof size
+
+Outputs:
+- Estimated solar system size
+- Estimated yearly savings
+- Subsidy estimate
+- Payback period
+
+UI:
+- Glassmorphism panel
+- Smooth animated numbers
+- Real-time calculation
+TESTIMONIAL SECTION PROMPT
+Create a cinematic testimonial slider.
+
+Features:
+- Full width section
+- Large customer quotes
+- Profile image
+- Smooth horizontal scroll animation
+- Auto sliding
+- Subtle background video of solar installations
+GOVERNMENT SUBSIDY SECTION PROMPT
+Create a modern informative section explaining solar subsidies.
+
+Content:
+- PM Surya Ghar subsidy information
+- Eligibility details
+- Process steps
+
+UI:
+- Timeline layout
+- Step animations
+- Scroll triggered effects
+ABOUT SECTION PROMPT
+Create a storytelling style about section.
+
+Features:
+- Large typography
+- Scroll triggered text animations
+- Image + text split layout
+- Parallax images
+- Founder message
+- Company mission
+CONTACT SECTION PROMPT
+Create an immersive contact section.
+
+Features:
+- Animated background gradient
+- Contact form
+- WhatsApp button
+- Google Maps embed
+- Smooth form animations
+
+Form fields:
+
+Name
+
+Phone
+
+Email
+
+Location
+
+Electricity bill
+
+Message
+
+PAGE TRANSITION PROMPT
+Create cinematic page transitions.
+
+Features:
+- Smooth fade transitions
+- Sliding overlay animations
+- Loading progress animation
+- Scroll reset on page change
+CURSOR INTERACTION PROMPT
+Create a custom animated cursor.
+
+Features:
+- Circular cursor
+- Expands on hover
+- Changes color on clickable elements
+- Subtle trailing animation
+FILM STRIP UI PROMPT
+
+Inspired by the reference site.
+
+Create subtle horizontal film-strip lines across the page.
+
+Features:
+- Thin animated strips at top and bottom
+- Move slightly during scrolling
+- Used during loading transitions
+- Cinematic feel
+4. MASTER PROMPT FOR LOVABLE
+
+This is the single prompt you can paste into Lovable to generate the entire site.
+
+Build a modern cinematic solar company website for "Getway Solar Energy".
+
+Style inspiration:
+Minimal cinematic portfolio style similar to modern award-winning interactive websites with smooth animations, large typography and immersive scrolling.
+
+Technology:
+Next.js
+Tailwind CSS
+GSAP animations
+Framer Motion
+Lenis smooth scrolling
+Shadcn UI components
+
+Design Style:
+Minimalist
+Dark cinematic theme
+Large typography
+First letter of headings italic
+Video backgrounds
+Smooth page transitions
+Cursor interaction
+Parallax scrolling
+
+Pages Required:
+Home
+Services
+Installations
+Solar Calculator
+Subsidy Information
+About
+Contact
+
+Homepage Layout:
+
+Hero Section
+Full screen video background showing solar installations
+Large headline: "Power Your Home With Solar Energy"
+Subtitle describing solar benefits
+CTA button "Get Free Quote"
+Scroll indicator animation
+
+Services Section
+Large interactive cards
+Hover zoom effect
+GSAP reveal animations
+
+Installation Gallery
+Interactive masonry grid
+Hover zoom
+Fullscreen modal viewer
+
+Solar Savings Calculator
+User inputs electricity bill
+Calculate solar size
+Show yearly savings and subsidy
+
+Government Subsidy Section
+Explain PM Surya Ghar scheme
+Step-by-step timeline
+
+Testimonials
+Horizontal animated slider
+Customer reviews
+
+About Section
+Storytelling layout
+Scroll triggered animations
+
+Contact Section
+Modern animated form
+WhatsApp button
+Google Maps embed
+
+Advanced Interactions:
+
+Smooth scrolling
+Parallax layers
+Custom animated cursor
+Hover animations
+Page transition animations
+Lazy loading images
+Scroll triggered GSAP animations
+
+Performance:
+Optimized images
+SEO friendly
+Fast loading
+Mobile responsive
+
+Goal:
+Generate leads for solar panel installation customers.
+
+✅ If you want, I can also give you something much more powerful:
+
+A 10/10 award-winning UI structure
+
+Exact animation library setup
+
+Full component list (50+ components)
+
+Lovable prompt that generates the entire Next.js project automatically
+
+That would make your Getway Solar website look like a $20k agency project.
+
+made the webiste but no animation chnag e it
+
+If Lovable generated the site but animations are missing, it usually means one of these happened:
+
+No animation libraries installed
+
+Animations not connected to scroll triggers
+
+Components not wrapped in motion elements
+
+Smooth scroll engine missing
+
+To fix it, you need to add proper animation systems.
+
+The Jason Bergh–style animation stack normally uses:
+
+GSAP + ScrollTrigger → cinematic scroll animations
+
+Framer Motion → UI element animations
+
+Lenis → smooth scrolling
+
+Custom cursor
+
+Page transitions
+
+Below is the exact fix strategy.
+
+1. Install Animation Libraries
+
+Add these packages to your project.
+
+npm install gsap framer-motion @studio-freight/lenis
+2. Add Smooth Scrolling (Very Important)
+
+Create a smooth scrolling system.
+
+Example:
+
+"use client"
+
+import Lenis from "@studio-freight/lenis"
+import { useEffect } from "react"
+
+export default function SmoothScroll({ children }) {
+  useEffect(() => {
+    const lenis = new Lenis({
+      duration: 1.2,
+      smooth: true
+    })
+
+    function raf(time) {
+      lenis.raf(time)
+      requestAnimationFrame(raf)
+    }
+
+    requestAnimationFrame(raf)
+  }, [])
+
+  return children
+}
+
+Wrap the entire app with this.
+
+3. Hero Animation (Fade + Scale)
+
+Example hero animation.
+
+import { motion } from "framer-motion"
+
+<motion.h1
+  initial={{ opacity: 0, y: 100 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 1 }}
+>
+Power Your Home With Solar Energy
+</motion.h1>
+
+This creates cinematic text entrance.
+
+4. Scroll Reveal Animations
+
+Install GSAP scroll animations.
+
+Example:
+
+import gsap from "gsap"
+import { ScrollTrigger } from "gsap/ScrollTrigger"
+
+gsap.registerPlugin(ScrollTrigger)
+
+gsap.from(".service-card", {
+  scrollTrigger: ".services",
+  opacity: 0,
+  y: 100,
+  stagger: 0.2,
+  duration: 1
+})
+
+This makes service cards animate when scrolling.
+
+5. Parallax Image Effect
+
+Example:
+
+gsap.to(".solar-image", {
+  yPercent: -20,
+  ease: "none",
+  scrollTrigger: {
+    trigger: ".solar-image",
+    scrub: true
+  }
+})
+
+Now images move while scrolling.
+
+6. Hover Card Animation
+
+Example service card.
+
+<motion.div
+  whileHover={{ scale: 1.05 }}
+  transition={{ type: "spring", stiffness: 300 }}
+>
+
+This gives smooth hover zoom.
+
+7. Page Transition Animation
+
+Add this to layout.
+
+<motion.div
+  initial={{ opacity: 0 }}
+  animate={{ opacity: 1 }}
+  exit={{ opacity: 0 }}
+  transition={{ duration: 0.6 }}
+>
+
+Now pages fade smoothly.
+
+8. Custom Cursor (Cinematic Effect)
+
+Example:
+
+const cursor = document.querySelector(".cursor")
+
+document.addEventListener("mousemove", e => {
+  cursor.style.left = e.clientX + "px"
+  cursor.style.top = e.clientY + "px"
+})
+
+Style it as a circle cursor.
+
+9. Solar Calculator Animation
+
+Animate numbers.
+
+Example:
+
+<motion.span
+  initial={{ opacity: 0 }}
+  animate={{ opacity: 1 }}
+  transition={{ duration: 1 }}
+>
+₹ 25,000 savings/year
+</motion.span>
+10. Best Lovable Fix Prompt
+
+Paste this in Lovable to upgrade the site animations.
+
+Add cinematic animations to the entire website.
+
+Use GSAP and Framer Motion for animations.
+
+Add:
+
+Smooth scrolling using Lenis
+Scroll triggered GSAP animations
+Fade-in sections on scroll
+Parallax effects for images
+Hover zoom effects on cards
+Animated hero text entrance
+Animated solar calculator numbers
+Page transition animations
+Custom animated cursor
+Smooth stagger animations for sections
+
+All sections should animate when entering viewport.
+
+Animations should feel smooth, premium, and cinematic.
+11. Animations Your Site Should Have
+
+Final website should include:
+
+Hero fade animation
+Scroll reveal sections
+Parallax images
+Hover zoom cards
+Page transitions
+Smooth scroll
+Animated numbers
+Cursor interaction
+Gallery hover effects
+
+This will make the website feel premium and interactive.
